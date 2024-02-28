@@ -22,7 +22,7 @@ Ab sofort werden wir regelmäßige Reparaturfeste veranstalten um die anstehende
 - Gruppenraum 1. Stock
 - Balkonzimmer 1. Stock
 - Kellerabgang
-- [Kellertüren](004-kellertueren)
+- [Kellertüren](projekte/004-kellertueren)
 - Bewegungsraum
 
 ## Nützliche Informationen

@@ -2,7 +2,7 @@
 
 Die Türen zu Werkstatt, Abstellkammer und Gartengeräteraum im Keller sind in einem desolaten Zustand.
 
-<img src="../fotos/IMG_3986.jpeg" width="50%" height="50%">
+<img src="../fotos/IMG_3986.jpeg" width="50%" height="50%" />
 
 Um zu verhindern dass Kinder auf dem Weg zum Bewegungsraum diese Räume betreten, sollten diese 3 Türen ausgetauscht werden.
 

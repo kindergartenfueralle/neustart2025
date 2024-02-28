@@ -15,14 +15,14 @@ Ab sofort werden wir regelmäßige Reparaturfeste veranstalten um die anstehende
 
 ## Aktuelle Projekte
 
-- Neugestaltung Eingangsbereich
-- Personalgarderobe Erdgeschoß
-- Wickeltisch Erdgeschoß
+- [Neugestaltung Eingangsbereich](projekte/001-eingangsbereich)
+- [Personalgarderobe Erdgeschoß](projekte/002-personalgarderobe)
+- [Wickeltisch Erdgeschoß](projekte/003-wickeltisch)
 - Gruppenraum Erdgeschoß
 - Gruppenraum 1. Stock
 - Balkonzimmer 1. Stock
 - Kellerabgang
-- Kellertüren
+- [Kellertüren](004-kellertueren)
 - Bewegungsraum
 
 ## Nützliche Informationen

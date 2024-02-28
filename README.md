@@ -7,7 +7,7 @@ Darum starten wir jetzt das Projekt "Neustart 2025".
 Anlass ist eine Qualitätsprüfung der Bildungsdirektion, die einige Mängel am Haus und an der Ausstattung des Kindergartens festgestellt hat.
 Wir wollen aber nicht nur die akuten Probleme ausbessern, sondern das Haus nachhaltig verbessern und den Kindergarten wieder fit für die Zukunft machen.
 
-Die Gesamtkosten des Projektes belaufen sich ersten Schätzungen nach zwischen 50.000€-100.000€. Ein Teil der Kosten wird durch das laufende Budget abgedeckt, einen Teil wird die Hauseigentümerin übernehmen, einen großen Teil können wir hoffentlich auch durch Förderungen abdecken. Vielleicht bekommen wir aber auch Unterstützung von privaten oder betrieblichen Spendern.
+Die Gesamtkosten des Projektes belaufen sich ersten Schätzungen nach zwischen 50.000€-100.000€. Ein Teil der Kosten wird durch das laufende Budget abgedeckt, einen Teil wird die Hauseigentümerin übernehmen, einen großen Teil können wir hoffentlich auch durch Förderungen abdecken. Vielleicht bekommen wir aber auch Unterstützung durch private oder betriebliche Spenden.
 
 Vor allem benötigen wir aber eines: Tatkräftige Mitarbeit von Eltern, Großeltern, Onkeln, Tanten, Freundinnen und Freunden des Kindergartens, und jenen die es noch werden wollen.
 

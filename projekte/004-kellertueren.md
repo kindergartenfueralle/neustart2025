@@ -4,7 +4,7 @@ Die Türen zu Werkstatt, Abstellkammer und Gartengeräteraum im Keller sind in e
 
 <img src="../fotos/IMG_3986.jpeg" width="50%" height="50%">
 
-Um zu verhindern dass Kinder diese Räume betreten, sollten diese 3 Türen ausgetauscht werden.
+Um zu verhindern dass Kinder auf dem Weg zum Bewegungsraum diese Räume betreten, sollten diese 3 Türen ausgetauscht werden.
 
 Im Durchgang vom Gang zum nächsten Kellerraum in dem Putzmittel gelagert werden sollte eventuell auch eine Tür eingebaut werden, damit Kinder dort nicht mehr hingelangen können.
 

@@ -2,7 +2,7 @@
 
 Die Bildungsdirektion hat uns vorgeschrieben, Spinds für die Mitarbeiter zu installieren.
 
-<img src="../fotos/IMG_3963.jpeg" width=50% height=50%>
+<img src="../fotos/IMG_3963.jpeg" width=50% height=50% />
 
 Leider sind diese optisch nicht sehr ansprechend, und für Schuhe und Jacken ist jetzt im Erdgeschoß kaum mehr Platz.
 

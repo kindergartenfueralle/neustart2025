@@ -3,7 +3,7 @@
 
 Der Eingangsbereich ist das erste was man sieht vom Kindergarten. Er sollte dementsprechend einladend gestaltet sein.
 
-<img src="../fotos/IMG_4004.jpeg" width=50% height=50%>
+<img src="../fotos/IMG_4004.jpeg" width=50% height=50% />
 
 Die Eingangstür sollte ersetzt werden. Jakob holt dazu gerade Angebote von Firmen ein. Die zweite Tür vom Eingangsbereich zum Gang wird entweder repariert oder auch ersetzt. Vor allem muss hier ein Schloss/Drücker eingebaut werden, der von Kindern nicht erreicht werden kann.
 

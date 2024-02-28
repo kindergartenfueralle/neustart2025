@@ -9,7 +9,7 @@ Wir wollen aber nicht nur die akuten Probleme ausbessern, sondern das Haus nachh
 
 Die Gesamtkosten des Projektes belaufen sich ersten Schätzungen nach zwischen 50.000€-100.000€. Ein Teil der Kosten wird durch das laufende Budget abgedeckt, einen Teil wird die Hauseigentümerin übernehmen, einen großen Teil können wir hoffentlich auch durch Förderungen abdecken. Vielleicht bekommen wir aber auch Unterstützung von privaten oder betrieblichen Spendern.
 
-Vor allem benötigen wir aber eines: Tatkräftige Mitarbeit von Eltern, Großeltern, Onkeln, Tanten, Freundinnen und Freunden des Kindergartens, und jene die es noch werden wollen.
+Vor allem benötigen wir aber eines: Tatkräftige Mitarbeit von Eltern, Großeltern, Onkeln, Tanten, Freundinnen und Freunden des Kindergartens, und jenen die es noch werden wollen.
 
 Ab sofort werden wir regelmäßige Reparaturfeste veranstalten um die anstehenden Projekte umzusetzen. Jeder der möchte ist eingeladen uns zu helfen! Bitte melde dich zur Koordination bei Jakob Egger, Tel: 0699 / 1053 1562, Email: jakob@eggerapps.at
 

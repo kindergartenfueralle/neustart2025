@@ -1,6 +1,6 @@
 # Wickeltisch Erdgeschoß
 
-Der Wickeltisch benötigt Stufen haben, damit die Kinder selber auf- und absteigen können.
+Der Wickeltisch benötigt Stufen, damit die Kinder selber auf- und absteigen können.
 
 <img src="../fotos/IMG_4032.jpeg" width="50%" height="50%" />
 

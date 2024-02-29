@@ -27,4 +27,5 @@ Ab sofort werden wir regelmäßige Reparaturfeste veranstalten um die anstehende
 
 ## Nützliche Informationen
 
+- [Mängelliste](maengel) von der Qualitätsprüfung der Bildungsdirektion
 - [Richtlinien zur Einrichtung und Ausstattung von Kindergärten](https://www.bildung-ooe.gv.at/Elementarpaedagogik/Fach--und-Rechtsinformationen/Rechtsgrundlagen/Weitere-Rechtsinformationen/Verwendungsbewilligungen.html) der Bildungsdirektion Oberösterreich

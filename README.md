@@ -13,17 +13,20 @@ Vor allem benötigen wir aber eines: Tatkräftige Mitarbeit von Eltern, Großelt
 
 Ab sofort werden wir regelmäßige Reparaturfeste veranstalten um die anstehenden Projekte umzusetzen. Jeder der möchte ist eingeladen uns zu helfen! Bitte melde dich zur Koordination bei Jakob Egger, Tel: 0699 / 1053 1562, Email: jakob@eggerapps.at
 
+Das Reparaturteam hat auch eine WhatsApp-Gruppe. Bitte melde dich wenn du beitreten willst!
+
 ## Aktuelle Projekte
 
 - [Neugestaltung Eingangsbereich](projekte/001-eingangsbereich)
 - [Personalgarderobe Erdgeschoß](projekte/002-personalgarderobe)
 - [Wickeltisch Erdgeschoß](projekte/003-wickeltisch)
-- Gruppenraum Erdgeschoß
-- Gruppenraum 1. Stock
-- Balkonzimmer 1. Stock
-- Kellerabgang
+- [Gruppenraum Erdgeschoß (Regenbogen)](projekte/006-regenbogengruppe)
+- [Gruppenraum 1. Stock (Sonnenstrahlen)](projekte/007-sonnenstrahlengruppe)
+- [Balkonzimmer 1. Stock](projekte/008-balkonzimmer)
+- [Kellerabgang](projekte/005-kellerabgang)
 - [Kellertüren](projekte/004-kellertueren)
-- Bewegungsraum
+- [Bewegungsraum](projekte/009-bewegungsraum)
+- [Verglasungen ausbessern und sichern](projekte/010-verglasungen)
 
 ## Nützliche Informationen
 
